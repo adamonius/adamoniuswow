@@ -31,6 +31,7 @@ namespace ArmoryEquipmentDisplay
             {
                 equipmentList.Add(server.GetEquipment(name));
             }
+			//hi
             dgViewCharacters.RowCount = characterNames.Count + 1;
         }
 
