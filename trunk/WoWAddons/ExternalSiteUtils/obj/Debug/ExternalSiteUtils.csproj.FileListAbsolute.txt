@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\bin\Debug\ExternalSiteUtils.dll
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\bin\Debug\ExternalSiteUtils.pdb
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\obj\Debug\ExternalSiteUtils.dll
+C:\Users\Adam\Desktop\WoWAddons\ExternalSiteUtils\obj\Debug\ExternalSiteUtils.pdb

@@ -1,0 +1,13 @@
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\bin\Debug\ArmoryEquipmentDisplay.exe
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\bin\Debug\ArmoryEquipmentDisplay.pdb
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\bin\Debug\ExternalSiteUtils.dll
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\bin\Debug\System.Data.SQLite.dll
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\bin\Debug\ExternalSiteUtils.pdb
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.ArmoryEquipmentDisplayForm.resources
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.Properties.Resources.resources
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.exe
+C:\Users\Adam\Desktop\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.pdb
+C:\Users\Adam\Documents\Visual Studio 10\Projects\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.exe
+C:\Users\Adam\Documents\Visual Studio 10\Projects\WoWAddons\ArmoryEquipmentDisplay\obj\Debug\ArmoryEquipmentDisplay.pdb
