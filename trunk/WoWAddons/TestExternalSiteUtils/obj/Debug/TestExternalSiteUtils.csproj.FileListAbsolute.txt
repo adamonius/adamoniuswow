@@ -1,8 +1,0 @@
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\bin\Debug\TestExternalSiteUtils.dll
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\bin\Debug\TestExternalSiteUtils.pdb
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\bin\Debug\ExternalSiteUtils.dll
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\bin\Debug\System.Data.SQLite.dll
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\bin\Debug\ExternalSiteUtils.pdb
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\obj\Debug\TestExternalSiteUtils.dll
-C:\Users\Adam\Desktop\WoWAddons\TestExternalSiteUtils\obj\Debug\TestExternalSiteUtils.pdb
